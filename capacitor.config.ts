@@ -1,10 +1,10 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.technyks.GymApp',
+  appId: 'com.technyks.ionicSplashApp',
   appName: 'GymApp',
   webDir: 'dist',            
-  
+
  
   plugins: {
     SplashScreen: {
